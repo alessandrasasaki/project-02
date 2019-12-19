@@ -268,28 +268,28 @@ customElements.define('modal-page3', class extends HTMLElement {
           </div>
           <div class="details-container__blocks">
             <div class="block-container">
-              <div class="block-add block-details" draggable="false"><ion-icon class="icon-add" name="add"></ion-icon></div>
-                  <div class="block-description">"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</div>
+              <div class="block-add block-details" draggable="false"><ion-icon class="icon-add details-icon-add" name="add"></ion-icon></div>
+                  <div class="block-description block-details__description">"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</div>
                 </div>
             <div class="block-container">
               <div class="block block-details block05"></div>
-              <div class="block-description">"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</div>
+              <div class="block-description block-details__description">"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</div>
             </div>
             <div class="block-container">
               <div class="block block-details block06"></div>
-              <div class="block-description">"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</div>
+              <div class="block-description block-details__description">"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</div>
             </div>
             <div class="block-container">
               <div class="block block-details block07"></div>
-              <div class="block-description">oi oi oi</div>
+              <div class="block-description block-details__description">oi oi oi</div>
             </div>
             <div class="block-container">
               <div class="block block-details block08"></div>
-              <div class="block-description">oi oi oi</div>
+              <div class="block-description block-details__description">oi oi oi</div>
             </div>
             <div class="block-container">
               <div class="block block-details block09"></div>
-              <div class="block-description">oi oi oi</div>
+              <div class="block-description block-details__description">oi oi oi</div>
             </div>        
           </div>
         </div>
